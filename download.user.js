@@ -1,7 +1,9 @@
 // ==UserScript==
 // @name         Tải Phụ Đề BiliBili
 // @namespace    http://tampermonkey.net/
+// @version      1.0
 // @description  Tải xuống phụ đề từ video Bilibili bằng tính năng trợ lý AI và nhấp vào danh sách phụ đề
+// @author       phamhoai098
 // @icon         https://www.google.com/s2/favicons?domain=biliintl.com
 // @match        https://www.bilibili.com/video/*
 // @grant        none
