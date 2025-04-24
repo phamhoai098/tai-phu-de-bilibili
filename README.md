@@ -1,9 +1,11 @@
 # Tải Phụ Đề BiliBili
 Tải xuống phụ đề từ video Bilibili bằng tính năng trợ lý AI và nhấp vào danh sách phụ đề
+
 https://github.com/phamhoai098/tai-phu-de-bilibili
 
+
 ## Tính năng:
-- Thêm nút "Tải xuống phụ đề" màu hồng mờ ở phía bên trái của trang video Bilibili
+- Thêm nút "TẢI PHỤ ĐỀ" màu hồng mờ ở phía bên trái của trang video Bilibili
 - Tự động trích xuất toàn bộ nội dung phụ đề của video
 - Sao chép phụ đề trực tiếp vào khay nhớ tạm
 - Định dạng dấu thời gian được hỗ trợ
