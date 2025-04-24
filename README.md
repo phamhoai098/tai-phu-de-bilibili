@@ -15,7 +15,7 @@ https://github.com/phamhoai098/tai-phu-de-bilibili
 
 ## Cài đặt
 1. Cài đặt trình quản lý tập lệnh người dùng ([Tampermonkey](https://www.tampermonkey.net/) hoặc [Violentmonkey](https://violentmonkey.github.io/))
-2. Nhấp vào liên kết cài đặt bên dưới hoặc thêm tập lệnh vào Trình quản lý tập lệnh người dùng theo cách thủ công
+2. Nhấp [Vào Đây](https://github.com/phamhoai098/tai-phu-de-bilibili/raw/main/download.user.js) hoặc thêm tập lệnh vào Trình quản lý tập lệnh người dùng theo cách thủ công
 3. Truy cập bất kỳ trang video nào của Bilibili và tập lệnh sẽ tự động được kích hoạt
 
 ## Cách sử dụng:
